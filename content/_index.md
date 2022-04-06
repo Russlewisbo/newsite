@@ -2,11 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: I am a clinical pharmacist and an Associate Professor of Infectious Diseases in the Department of Medical and Surgical Sciences as the University of Bologna. I have over 20 years experience in laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics in immunocompromised hosts. My current research focuses on the development of prognostic risk models and decision support tools for the diagnosis and treatment of fungal infections and multidrug resistant bacteria.
 image_left: true
 images:
 - img/revoir.jpg
