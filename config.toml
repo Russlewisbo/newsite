@@ -28,7 +28,7 @@ enableEmoji = true
     style = "github"
     
 [params]
-  orgName = "University of Bologna"
+  orgName = "Russell Lewis"
   orgLocal = "Bologna, Italy"
   description = "Personal website for Russell Lewis"
   favicon = "/img/favicon.ico"
