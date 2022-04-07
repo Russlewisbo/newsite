@@ -1,127 +1,23 @@
 ---
-author: Eric Anderson
+author: Russell Lewis
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-03"
+- PK/PD
+- ESCMID
+- Biomarkers
+date: "2022-04-07"
 draft: false
 excerpt: Building this static site generator theme was the first time I used an Atomic
   (or Functional) CSS system like Tachyons. It’s a design system that provides very
   small (which means fast) CSS modules that you can use in your HTML.
 layout: single
-subtitle: A tachyon /ˈtæki.ɒn/ or tachyonic particle is a hypothetical particle that
-  always moves faster than light.
+subtitle: Adapting bloodculture systems to monitor antimicrobial efficacy
 tags:
 - hugo-site
-title: Tachyons for Style
+title: ACUTE
 ---
 
-![Tachyons Logo Script](tachyons-logo-script.png)
+![](featured.jpg)
 
-## [Tachyons](http://tachyons.io) is a design system that allows you to design gorgeous interfaces in the browser with little effort.
+------------------------------------------------------------------------
 
----
-
-### Because Speed
-
-Building this static site generator theme was the first time I used an Atomic
-(or Functional) CSS system like Tachyons. It's a design system that provides
-very small (which means fast) CSS modules that you can use in your HTML. So,
-rather than writing every line of CSS, you apply the style you need as you write
-your HTML with easy to understand shorthand class names. This makes for a very
-powerful way to style, in the browser, or while building a static site like this
-one – since you can see every change with every save. **It's a joy to use.**
-
-In using this theme for your next static website project, you won't need to know
-anything about Tachyons ... so, don't freak out. Even though I used it to style
-the theme, you won't need to change a thing. BUT, if you do want to play around
-with it, you can make massive changes very easily. Just familiarize yourself
-with the [clear documentation on the design system](http://tachyons.io/docs/).
-Once you dive in, you'll recognize all the classes I'm using in the markup.
-
-### BYOTachyons
-
-One of the best features of Tachyons is the exhaustive [component
-library](https://www.tachyonstemplates.com/components/?selectedKind=AboutPages&selectedStory=AboutUs&full=0&down=0&left=1&panelRight=0)
-contributed by the community. All those components are built to work with the
-Tachyons classes, so they will work in this theme too! You can copy/paste
-components in order to quickly block out a page, then fill in your content.
-
-### Taste the Rainbow
-
-We've leveraged the [accessible color
-combinations](http://tachyons.io/docs/themes/skins/) included with Tachyons to
-offer an easy way for you to setup your site using your favorite colors. In the
-site configuration file (`config.toml`), there is a full set of color parameters
-giving you control over the theme color scheme. For an option like `siteBgColor`
-for example, you can just type one of the predefined color names from Tachyons
-and save the file. You can totally customize the theme colors within minutes of
-installing the theme.
-
-```toml
-# basic color options: use only color names as shown in the
-# "Color Palette" section of http://tachyons.io/docs/themes/skins/
-siteBgColor = "near-white"
-sidebarBgColor = "light-gray"
-headingColor = "black"
-textColor = "dark-gray"
-sidebarTextColor = "mid-gray"
-bodyLinkColor = "blue"
-navLinkColor = "near-black"
-sidebarLinkColor = "near-black"
-footerTextColor = "silver"
-buttonTextColor = "near-white"
-buttonBgColor = "black"
-buttonHoverTextColor = "white"
-buttonHoverBgColor = "blue"
-borderColor = "moon-gray"
-```
-
-### Dig Deeper
-
-Let's say you have a style guide to follow and `washed-blue` just won't cut the
-mustard. We built Blogophonic for you, too. There is a bypass of these
-predefined colors built in, you just need to dig a little deeper. In the theme
-assets, locate and open the main SCSS file (`/assets/main.scss`). After the
-crazy looking variables you probably don't recognize and directly following the
-Tachyons import (`@import 'tachyons';`) you'll see a comment that looks just
-like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-// @import 'custom-colors';
-```
-
-Once you uncomment the `custom-colors` import, it will look like this:
-
-```scss
-// uncomment the import below to activate custom-colors
-// add your own colors at the top of the imported file
-@import "custom-colors";
-```
-
-Save that change, and now the color options in the `config.toml` are no longer
-active – they've been bypassed. To customize the colors, locate and open the
-`custom-colors` file found in the theme assets (`/assets/custom-colors.scss`).
-At the top of that file, you'll find a whole new set of variables for all the
-same color options, but this time you get to assign your own HEX codes.
-
-```scss
-// set your custom colors here
-$siteBgColorCustom: #e3e3da;
-$sidebarBgColorCustom: #dbdbd2;
-$textColorCustom: #666260;
-$sidebarTextColorCustom: #666260;
-$headingColorCustom: #103742;
-$bodyLinkColorCustom: #c4001a;
-$navLinkColorCustom: #c4001a;
-$sidebarLinkColorCustom: #c4001a;
-$footerTextColorCustom: #918f8d;
-$buttonTextColorCustom: #f7f7f4;
-$buttonHoverTextColorCustom: #f9f9f8;
-$buttonBgColorCustom: #103742;
-$buttonHoverBgColorCustom: #c4001a;
-$borderColorCustom: #c4beb9;
-```
+**PI: Irene Zaghi, M.D.** <br> **Recipient of the 2022 ESCMID Young Investigator Award** <br> <br>[ESCMID research award link](https://www.escmid.org/profession_career/awards_grants/research_grants/awardees_2022/) <br> <br> The effectiveness of antibiotic therapy in critically-ill patients with sepsis is often compromised by highly variable pharmacokinetics that can lead to subtherapeutic exposures and treatment failures, especially in the management of infections caused by multidrug resistant Gram-negative bacteria. Pharmacometric model-informed dosing and therapeutic drug monitoring (TDM) have been advanced as strategies for individualising antibiotic dosing in critically-ill patients, but the availability of these tools and expertise for implementation (especially for newer antibiotics) is often not available. The ACUTE project (Adapting Bloodculture systems to monitor antimicrobial efficacy) proposes to develop time-to positivity (Tpos) reported most continuously monitored bloodculture incubators in clinical microbiology laboratories into an a surrogate pharmacodynamic biomarker for antibacterial bactericidal activity. In this project, we propose to develop this assay as a "proof of concept" for monitoring ceftazidime-avibactam therapy of KPC-carbapenemase producing Klebsiella pneumoniae. (KPC-Kp) This will be accomplished through two specific aims and several workpackages. The first specific aim will establish the quantitative relationships between Tpos and several representative KPC-Kp strains in the absence and after exposure to a range of clinically-relevant exposures of ceftazidime-avibactam. The second specific aim will measure in 20 critically-ill patients receiving ceftazidime-avibactam treatment for KPC-KP bloodstream infections using KPC-Kp "indicator" strains or the patient's own isolate, and correlate Tpos results with blood concentration-time courses of ceftazidime and avibactam and PK/PD target attainment (free drug T\>MIC ) simulated for each patient using Bayesian-informed estimates of individual PK parameters from population pharmacokinetic models and LC/MS/MS analysis of ceftazidime-avibactam in serum. This study will form the basis for the broader development and validation of Tpos as a surrogate pharmacodynamic biomarker for antimicrobial activity in serum, that could potentially be used for screening or monitoring antimicrobial efficacy in the critically-ill patient.
