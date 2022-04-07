@@ -1,5 +1,5 @@
 ---
-author: Eric Anderson
+author: Russell Lewis
 categories:
 - Theme Features
 - R

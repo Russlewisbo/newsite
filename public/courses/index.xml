@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Courses taught at UNIBO on Russell E. Lewis</title>
+    <link>https://russlewisid.com/courses/</link>
+    <description>Recent content in Courses taught at UNIBO on Russell E. Lewis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 12 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://russlewisid.com/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>97039 - Global health, Antimicrobial Drugs and Vaccines</title>
+      <link>https://russlewisid.com/courses/campfire/</link>
+      <pubDate>Tue, 12 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://russlewisid.com/courses/campfire/</guid>
+      <description>Link to the UNIBO Course Description Link to the Course materials 
+This section of the course will be divided into three 3hr modules
+In Module 1 the student will examine the challenges for global management of antimicrobial resistance. The dynamics and problems of cross-border dissemination and control of antimicrobial resistance outbreaks will be discussed and well as control strategies. Students will participate in group simulation exercise managing the emergence of a hypervirulent pan-drug resistant bacteria strain in a healthcare setting as a cross-border threat to heath.</description>
+    </item>
+    
+    <item>
+      <title>A seedling</title>
+      <link>https://russlewisid.com/courses/second-seedling/</link>
+      <pubDate>Fri, 01 Jan 2021 14:15:59 -0600</pubDate>
+      
+      <guid>https://russlewisid.com/courses/second-seedling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

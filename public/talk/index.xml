@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent and upcoming talks on Russell E. Lewis</title>
+    <link>https://russlewisid.com/talk/</link>
+    <description>Recent content in Recent and upcoming talks on Russell E. Lewis</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 23 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://russlewisid.com/talk/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beyond the MIC: Fungicidal activity, biofilms and tissue distribution</title>
+      <link>https://russlewisid.com/talk/campfire/</link>
+      <pubDate>Wed, 23 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://russlewisid.com/talk/campfire/</guid>
+      <description>Many factors beyond the MIC can impact the activity of antifungal agents. In this talk, I provide an overview of the importance of fungicidal activity, how biofilms and persister cells contribute to resistance that is not measured by the MIC, and then address the challenged of understanding antifungal PK/PD for deep tissue infections.</description>
+    </item>
+    
+  </channel>
+</rss>
