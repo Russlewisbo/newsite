@@ -11,9 +11,9 @@ cascade:
     text_link_label: View recent talks
     text_link_url: /talk/
 description: |
-  This is a site for linking to courses/teaching at the University of Bologna
+  This portal is for linking to course materials from my lectures at the University of Bologna
 layout: list
-show_author_byline: true
+show_author_byline: false
 show_button_links: true
 show_post_date: true
 show_post_thumbnail: true

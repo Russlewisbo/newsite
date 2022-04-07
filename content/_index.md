@@ -2,17 +2,17 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: I have over 20 years experience in laboratory and clinical research of antimicrobial pharmacokinetics and pharmacodynamics in immunocompromised hosts. My current projects focus on the development of prognostic risk models and decision support tools for the diagnosis and optimal use of antimicrobial therapy  of fungal infections and multidrug resistant bacteria.
+description: 'This site serves as a repository for teaching, lecture and research project resources. More information is available via my 
+[University of Bologna webpage](https://www.unibo.it/sitoweb/russeledward.lewis), or from my [*curriculum vitae*](https://russlewisbo.github.io/markdown-cv/). <br> <br>Please follow the following link for my [conflict of interest disclosure](http://andrewleach.ca/conflict-of-interest-disclosure/).<br><br>Cover photo credit: Marta Stanzani'
 image_left: true
 images:
 - img/Rlewis3.jpg
 show_action_link: true
 show_social_links: true
-subtitle: Clinical Pharmacologist & Associate Professor of Infectious Diseases
+subtitle: Clinical Pharmacologist in Infectious Diseases
 text_align_left: right
 title: Russell E. Lewis
 type: home
 ---
 
-** index doesn't contain a body, just front matter above.
-See index.html in the layouts folder **
+\*\* index doesn't contain a body, just front matter above. See index.html in the layouts folder \*\*
