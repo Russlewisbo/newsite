@@ -17,7 +17,7 @@ categories:
 links:
 - icon: door-open
   icon_pack: fas
-  name: website
+  name: slides
   url: https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide
 - icon: github
   icon_pack: fab
