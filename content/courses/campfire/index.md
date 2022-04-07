@@ -17,6 +17,9 @@ subtitle:
 title: 97039 - Global health, Antimicrobial Drugs and Vaccines
 ---
 
+Link to the [UNIBO Course Description](https://www.unibo.it/sitoweb/russeledward.lewis/didattica)
+Link to the [Course materials ](https://www.uniboglobalhealth.com/)
+
 This section of the course will be divided into three 3hr modules
 
 In Module 1 the student will examine the challenges for global management of antimicrobial resistance. The dynamics and problems of cross-border dissemination and control of antimicrobial resistance outbreaks will be discussed and well as control strategies. Students will participate in group simulation exercise managing the emergence of a hypervirulent pan-drug resistant bacteria strain in a healthcare setting as a cross-border threat to heath. The exercise will provide an opportunity for students to discuss knowledge, capabilities, experiences and best practices used to control cross-boarder resistance threats.
