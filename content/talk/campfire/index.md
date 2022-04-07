@@ -1,11 +1,10 @@
 ---
 title: "Beyond the MIC: Fungicidal activity, biofilms and tissue distribution"
 subtitle: "32nd ESCMID"
-excerpt: "My talk at the 32nd ECCMID Conference in Lisbon"
-date: 2022-02-23
-date_end: "2022-02-26"
+date: 2022-04-24
+date_end: "2022-04-24"
 show_post_time: false
-event: "32nd ESCMID 2022, Lisbon"
+event: "32nd ESCMID 2022,Lisbon"
 event_url: https://www.eccmid.org/
 author: "Russell Lewis"
 location: "Altice Arena, Lisbon"
