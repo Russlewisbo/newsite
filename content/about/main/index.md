@@ -1,17 +1,17 @@
 ---
 ## Configure page content in wide column
-title: "Why apéro?" # leave blank to exclude
+title: 
 number_featured: 1 # pulling from mainSections in config.toml
 use_featured: false # if false, use most recent by date
 number_categories: 3 # set to zero to exclude
 show_intro: true
 intro: |
-  Apéro is a unique kind of casual get-together in French culture, when you gather with friends and get to know each other better over some apéritifs, snacks, and anything in between. A good apéro is one where you'd happily spend a few hours just hanging out.
+  A short bio: I graduated with my doctor of clinical pharmacy degress (Pharm.D.) from the University of Kansas in 1996, completed a one-year clinical pharmacy residency at Barnes-Jewish Hospital in St. Louis, Missouri and a two-year resaerch fellowship in infectious diseases at the University of Iowa in Iowa City. Afte completing my training I accepted a faculty position at the University of Houston College of Pharmacy and was a clinical pharmacist on the infectious diseases consult service at The University of Texas M.D. Anderson Cancer Center. 
   
-  I hope this theme helps you create your own virtual apéro. A place where you and your site's visitors enjoy spending time, and one that helps folks get to know you better. 
+  {{< icon name="download" pack="fas" >}} Download my [curriculum vitae](https://russlewisbo.github.io/markdown-cv/)
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+
 ---
 
 ** index doesn't contain a body, just front matter above.
