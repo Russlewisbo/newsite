@@ -6,7 +6,7 @@ description: 'This site serves as a repository for teaching, lecture and researc
 [University of Bologna webpage](https://www.unibo.it/sitoweb/russeledward.lewis), or from my [*curriculum vitae*](https://russlewisbo.github.io/markdown-cv/). <br> <br>Please follow the following link for my [conflict of interest disclosure](http://andrewleach.ca/conflict-of-interest-disclosure/).<br><br>Cover photo credit: Marta Stanzani'
 image_left: true
 images:
-- img/Rlewis3.jpg
+- img/rlewis3.jpg
 show_action_link: true
 show_social_links: true
 subtitle: Clinical Pharmacologist in Infectious Diseases
