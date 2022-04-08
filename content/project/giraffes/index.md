@@ -11,7 +11,7 @@ layout: single
 subtitle: Adapting bloodculture systems to monitor antimicrobial efficacy
 tags:
 - hugo-site
-title: The ACUTE Project
+title: Developing time to blood culture positivity (Tpos) as a pharmacodynamci biomarker
 ---
 
 ![](featured.jpg)
