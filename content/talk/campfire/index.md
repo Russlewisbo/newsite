@@ -5,15 +5,15 @@ excerpt: "Many factors beyond the MIC can impact the activity of antifungal agen
 date: 2021-01-12
 date_end: "2021-01-13"
 show_post_time: false
-event: "32nd ECC"
+event: "32nd European Congress of Clinical Microbiology and Infectious Diseases (ECCMID)"
 event_url: https://global.rstudio.com
-author: "Alison Hill"
-location: "Sydney, Australia"
+author: "Russell Lewis"
+location: "Lisbon, Portugal"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- workshop
+- congre
 links:
 - icon: door-open
   icon_pack: fas
