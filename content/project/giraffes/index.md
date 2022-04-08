@@ -6,14 +6,12 @@ categories:
 - Biomarkers
 date: "2022-04-07"
 draft: false
-excerpt: Building this static site generator theme was the first time I used an Atomic
-  (or Functional) CSS system like Tachyons. It’s a design system that provides very
-  small (which means fast) CSS modules that you can use in your HTML.
+excerpt: In this project, we will develop and validate Time-to-positivity (Tpos) generated automated bloodculture detection systems in widely used in clinical microbiology laboratories as a pharmacodynamic biomarker for monitoring bactericidal activity of carbapenem-resistant Enterbacterales (CRE) in critically-ill patients.
 layout: single
 subtitle: Adapting bloodculture systems to monitor antimicrobial efficacy
 tags:
 - hugo-site
-title: ACUTE
+title: The ACUTE Project
 ---
 
 ![](featured.jpg)
