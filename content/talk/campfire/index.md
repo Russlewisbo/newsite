@@ -1,27 +1,28 @@
 ---
-title: "Beyond the MIC: Fungicidal activity, biofilms and tissue distribution"
-subtitle: "32nd ESCMID"
-date: 2022-04-24
-date_end: "2022-04-24"
+title: "A campfire"
+subtitle: "Testing"
+excerpt: "Here is a talk I gave on making awesome personal websites using Hugo, blogdown, GitHub, and Netlify."
+date: 2021-01-12
+date_end: "2021-01-13"
 show_post_time: false
-event: "32nd ESCMID 2022,Lisbon"
-event_url: https://www.eccmid.org/
-author: "Russell Lewis"
-location: "Altice Arena, Lisbon"
+event: "rstudio::global(2021)"
+event_url: https://global.rstudio.com
+author: "Alison Hill"
+location: "Sydney, Australia"
 draft: false
 # layout options: single, single-sidebar
 layout: single
 categories:
-- Scientifc congress
+- workshop
 links:
 - icon: door-open
   icon_pack: fas
-  name: slides
-  url: https://russlewisbo.github.io/ESCMID_2022_talk/#/title-slide
+  name: website
+  url: https://bakeoff.netlify.com/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/Russlewisbo/ESCMID_2022_talk
+  url: https://github.com/apreshill/bakeoff
 ---
 
-Many factors beyond the MIC can impact the activity of antifungal agents. In this talk, I provide an overview of the importance of fungicidal activity, how biofilms and persister cells contribute to resistance that is not measured by the MIC, and then address the challenged of understanding antifungal PK/PD for deep tissue infections.
+I'm really excited to give this talk! Stay tuned for video and slides.
