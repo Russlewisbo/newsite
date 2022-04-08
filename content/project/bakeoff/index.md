@@ -1,66 +1,26 @@
 ---
 author: Russell Lewis
 categories:
-- Theme Features
-- R
-- package
-date: "2019-07-01"
+- Prognostic models
+- Genetic risk factors
+- Invasive mold disease
+- Hematological malignancies
+date: "2022-04-02"
 draft: false
-excerpt: This theme has a form-to-email feature built in, thanks to the simple Formspree
-  integration. All you need to activate the form is a valid recipient email address
-  saved in the form front matter.
+excerpt: This project explores whether the inclusion of a polygeneic risk score (PRS) developed from analysis of genetic polymorphisms associated with altered recognition and innate immune responses to invasive aspergillisis can improve the performance of a validated clinical prognostic risk score for invasive mold disease in patients underoging treatment for hematological malignancies
 layout: single
 links:
-- icon: door-open
-  icon_pack: fas
-  name: website
-  url: https://bakeoff.netlify.com/
 - icon: github
   icon_pack: fab
   name: code
-  url: https://github.com/apreshill/bakeoff
-subtitle: An R Package
+  url: https://github.com/Russlewisbo
+subtitle: Combined clinical-genetic risk model for aspergillosis
 tags:
-- hugo-site
-title: Bakeoff
+- prognostic model
+- invasive aspergillosis
+title: Prognostic Aspergillus Models with Leukemia Sequencing
 ---
 
-![Formspree Logo](formspree-logo.png)
+![](featured.jpg)
 
-## [Formspree](https://formspree.io) makes it easy to receive submissions from HTML forms on your static website.
-
----
-
-### Functional Form
-
-This theme has a **form-to-email** feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form
-(`/content/forms/contact.md`). Of course, the example shown below (`your@email.here`) must not be used. Please use your actual email address.
-
-```toml
-# please replace with a valid Formspree form id or email address
-formspree_form_id: your@email.here
-```
-
-Update that file and you're ready to begin receiving submissions. Just submit
-the active form for the first time, and complete the email address verification
-step with Formspree, and your contact form is live. The next time someone
-fills it out, the submission will land in your inbox.
-
-### Multiple Layouts
-
-The files included with the theme have a contact page ready for copy/paste, or
-you can type `hugo new forms/contact.md` and you're off to the races. There are two
-layouts for `forms` – `split-right`, and `split-left` – you guessed it, one puts
-the form on the right and the other on the left. You just fill out the front
-matter, and the rest is automatic.
-
-```toml
-# layout options: split-right or split-left
-layout: split-right
-```
-
-![Contact Form Split Right Layout Screenshot](built-in-contact-form-screenshot.png)
-
-Both layouts display the page title and description opposite the form, and you
-can also choose to show your social icon links if you have those configured in
-the `config.toml` file.
+Polymorphisms in genes encoding fungal pattern recognition receptors (PRRs) of the innate immune system are associated with increased risk of invasive aspergillosis (IA), but incorporation genetic risk factors in clinical decision making remains limited. We propose to develop a combined clinical/genetic risk model suitable for accurately predicting an individual patient's risk for developing IA within 60 days of admission for chemotherapy for acute myeloid leukemia/myelodysplastic syndromes (AML/MDS). We will develop a clinical risk model from a large data registry of 788 patients over 2,713 hospital admissions (2007-2020) for AML/MDS treatment that was associated with a 5.5% incidence of EORTC/MSG-defined probable or proven mold disease. Single nucleotide polymorphisms (SNPs) in 4 genes encoding fungal PRRs will be analyzed in parallel with relevant myeloid mutations from banked samples from next generation sequencing (NGS) analysis in a nested cohort of 234 patients (534 admissions) from 2017-2020. A polygenic risk score (PRS) will be developed to explore interactions with clinical risk factors and fungal PRR/myeloid SNPs to develop an absolute risk prediction model for supporting clinical decisions in the management of invasive mold disease in patients undergoing treatment of AML/MDS.
