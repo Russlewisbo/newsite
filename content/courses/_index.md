@@ -9,7 +9,7 @@ cascade:
   sidebar:
     show_sidebar_adunit: false
     text_link_label: View recent talks
-    text_link_url: /talk/
+    text_link_url: /courses/
 description: |
   This portal is for linking to course materials from my lectures at the University of Bologna
 layout: list
@@ -25,7 +25,7 @@ sidebar:
     out the _index.md file in the /talk folder \nto edit this content. \n"
   show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
-  text_link_url: /talk/index.xml
+  text_link_url: /courses/index.xml
   title: Courses 
 title: Courses 
 ---

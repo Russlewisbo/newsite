@@ -12,7 +12,7 @@ featured: true
 layout: single
 
 location: Bologna Italy and Africa (Virtual)
-show_post_time: false
+show_post_time: true
 subtitle: 
 title: 97039 - Global Health, Antimicrobial Drugs and Vaccines
 ---

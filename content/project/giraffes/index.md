@@ -6,12 +6,12 @@ categories:
 - Biomarkers
 date: "2022-04-07"
 draft: false
-excerpt: In this project, we will develop and validate Time-to-positivity (Tpos) generated automated bloodculture detection systems in widely used in clinical microbiology laboratories as a pharmacodynamic biomarker for monitoring bactericidal activity of carbapenem-resistant Enterbacterales (CRE) in critically-ill patients.
+excerpt: In this project, we will develop and validate Time-to-positivity (Tpos) measured from automated bloodculture detection systems used in clinical microbiology laboratories as a pharmacodynamic biomarker for monitoring bactericidal activity of carbapenem-resistant Enterbacterales (CRE) in critically-ill patients.
 layout: single
-subtitle: Adapting bloodculture systems to monitor antimicrobial efficacy
+subtitle: Adapting bloodculture systems to monitor the bactericidal activity of antibiotics used to treat carbapenem-resistant Enterobacterales
 tags:
 - hugo-site
-title: Developing time to blood culture positivity (Tpos) as a pharmacodynamci biomarker
+title: Developing time to blood culture positivity (Tpos) as a pharmacodynamic biomarker
 ---
 
 ![](featured.jpg)
