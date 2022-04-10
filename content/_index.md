@@ -2,7 +2,7 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: 'This site serves as a repository for teaching, lecture and research project resources. More information is available via my 
+description: 'This site serves as a repository for teaching materials, lecture slides, and status ofblod current research projects. More information is available via my 
 [University of Bologna webpage](https://www.unibo.it/sitoweb/russeledward.lewis), or from my [*curriculum vitae*](https://russlewisbo.github.io/markdown-cv/). <br> <br>Please follow the following link for my [conflict of interest disclosure](http://andrewleach.ca/conflict-of-interest-disclosure/).<br><br>Cover photo credit: Marta Stanzani'
 image_left: true
 images:
