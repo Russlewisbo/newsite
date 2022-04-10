@@ -4,19 +4,19 @@ categories:
 - courses
 - UNIBO
 - medical thesis
-date: "2021-01-12"
-date_end: "2021-01-13"
+date: "2022-04-15"
+date_end: "2021-04-13"
 draft: false
 event: Medical Thesis
 event_url: https://www.unibo.it/sitoweb/russeledward.lewis/didattica?tab=tesi
-excerpt: Medical thesis in English
+excerpt: Medical doctor or specialization thesis in English
 featured: true
 layout: single
 
-location: Bologna Italy and Africa (Virtual)
+location: Bologna, Italy
 show_post_time: false
 subtitle: 
-title: 97039 - Global Health, Antimicrobial Drugs and Vaccines
+title: Medical or Specialization Thesis
 ---
 
 Link to the [UNIBO Course Description](https://www.unibo.it/sitoweb/russeledward.lewis/didattica?tab=tesi)<br>
