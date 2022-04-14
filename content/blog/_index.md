@@ -18,11 +18,11 @@ show_post_date: true
 show_post_thumbnail: true
 sidebar:
   author: Russ Lewis
-  description: "This is a blog that highlights recent publications and guidelines"
-  show_sidebar_adunit: true
+  description: ""
+  show_sidebar_adunit: false
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml
-  title: A Sidebar for Your Thoughts
+  title: Recent publications
 thumbnail_left: true
 title: Recent publications
 ---

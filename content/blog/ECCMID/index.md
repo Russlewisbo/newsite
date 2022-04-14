@@ -1,17 +1,17 @@
 ---
 author: Russell Lewis
 categories:
-- drug interactions
-- targeted therapy
+- time to positivity
+- automanted blood cultures
 - PK/PD
-- triazole antifungals
-- hematological malignancies
+- biomarker
+- CRE infections
 date: "2022-02-28"
 draft: false
-excerpt:  Brüggemann R et al. Lancet Haematol 2022;9:e58–e72. <br> <br> This article provides a state of the art review on pharmacokinetic drug-drug interactions of antifungal therapy with target chemotherapy agents used in the treatment of haematologic malignancies
+excerpt:  Brüggemann R et al. Lancet Haematol 2022;9:e58–e72. <br> <br> 
 layout: single
-subtitle: The Lancet Haematol 2022; 9:e58–e72.
-title: Managing drug interactions with targeted chemotherapy
+subtitle:  32nd European Congress of Clinical Microbiology & Infectious Diseases
+title: Is timing everything?
 ---
 
 Brüggemann RJ, Verheggen R, Boerrigter E,Stanzani M, Verweij P, Blijlevens NMA, Lewis, RE. Management of drug-drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs. Lancet Haematol 2022;9:e58–e72. <br> <br>Available at: http://dx.doi.org/10.1016/S2352-3026(21)00232-5.
