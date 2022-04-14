@@ -13,13 +13,13 @@ cascade:
 description: |
   This portal is for linking to course materials from my lectures at the University of Bologna
 layout: list
-show_author_byline: false
+show_author_byline: true
 show_button_links: true
 show_post_date: true
 show_post_thumbnail: true
 show_post_time: true
 sidebar:
-  author: Russ Lewis
+  author: Russell Lewis
   description: "This is a list for your talks, workshops, or \nother events with a
     time, date, and place. \nEven this sidebar offers a ton of customizations.\n\nCheck
     out the _index.md file in the /talk folder \nto edit this content. \n"

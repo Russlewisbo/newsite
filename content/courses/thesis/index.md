@@ -6,7 +6,7 @@ categories:
 - medical thesis
 date: "2022-04-15"
 date_end: "2021-04-13"
-draft: false
+draft: true
 event: Medical Thesis
 event_url: https://www.unibo.it/sitoweb/russeledward.lewis/didattica?tab=tesi
 excerpt: Medical doctor or specialization thesis in English
@@ -14,8 +14,8 @@ featured: true
 layout: single
 
 location: Bologna, Italy
-show_post_time: false
-subtitle: 
+show_post_time: true
+subtitle: Thesis written in English
 title: Medical or Specialization Thesis
 ---
 
