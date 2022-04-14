@@ -4,7 +4,7 @@ categories:
 - courses
 - UNIBO
 - medical thesis
-date: "2022-04-15"
+date: "2022-04-01"
 date_end: "2021-04-13"
 draft: true
 event: Medical Thesis
