@@ -6,7 +6,7 @@ categories:
 - PK/PD
 - biomarker
 - CRE infections
-date: "2022-02-28"
+date: "2022-04-14"
 draft: false
 excerpt:  Zaghi I, Sambri V, Lewis RE. 32nd European Congress of Clinical Microbiology and Infectious Diseases, Lisbon, Portugal. Abstract 01824  <br> <br> 
 layout: single
