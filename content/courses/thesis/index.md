@@ -5,7 +5,7 @@ categories:
 - UNIBO
 - medical thesis
 date: "2022-04-01"
-date_end: "2021-04-13"
+date_end: "2023-04-13"
 draft: true
 event: Medical Thesis
 event_url: https://www.unibo.it/sitoweb/russeledward.lewis/didattica?tab=tesi
