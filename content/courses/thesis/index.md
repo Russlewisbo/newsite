@@ -12,7 +12,6 @@ event_url: https://www.unibo.it/sitoweb/russeledward.lewis/didattica?tab=tesi
 excerpt: Medical doctor or specialization thesis in English
 featured: true
 layout: single
-
 location: Bologna, Italy
 show_post_time: true
 subtitle: Thesis written in English
