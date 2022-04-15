@@ -8,7 +8,7 @@ categories:
 - CRE infections
 date: "2022-04-14"
 draft: false
-excerpt:  Zaghi I, Sambri V, Lewis RE. 32nd European Congress of Clinical Microbiology and Infectious Diseases, Lisbon, Portugal. Abstract 01824  <br> <br> 
+excerpt:  Zaghi I, Sambri V, Lewis RE. 32nd European Congress of Clinical Microbiology and Infectious Diseases, Lisbon, Portugal. Abstract #01824  <br> <br> 
 layout: single
 subtitle:  32nd European Congress of Clinical Microbiology & Infectious Diseases
 title: Is timing everything? A Bayesian meta-analysis of the prognostic and diagnostic utility of bloodculture time-to-positivity (TTP) and differential time-to positivity (DTP) for bloodstream infections
