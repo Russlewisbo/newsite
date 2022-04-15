@@ -27,4 +27,3 @@ links:
   url: https://github.com/Russlewisbo/ESCMID_2022_talk
 ---
 
-I'm really excited to give this talk! Stay tuned for video and slides.
