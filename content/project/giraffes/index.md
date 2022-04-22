@@ -14,7 +14,7 @@ tags:
 title: Developing time to blood culture positivity (Tpos) as a pharmacodynamic biomarker
 ---
 
-![](featured.jpg)
+![](featured-hex.png)
 
 ------------------------------------------------------------------------
 
