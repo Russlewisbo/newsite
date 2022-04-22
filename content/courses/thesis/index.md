@@ -4,8 +4,8 @@ categories:
 - courses
 - UNIBO
 - medical thesis
-date: "2022-04-01"
-date_end: "2023-04-13"
+date: "2022-01-01"
+date_end: "2023-01-01"
 draft: true
 event: Medical Thesis
 event_url: https://www.unibo.it/sitoweb/russeledward.lewis/didattica?tab=tesi
