@@ -7,12 +7,41 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language><atom:link href="https://russlewisid.com/categories/pk/pd/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ACUTE</title>
+      <title>Is timing everything? A Bayesian meta-analysis of the prognostic and diagnostic utility of bloodculture time-to-positivity (TTP) and differential time-to positivity (DTP) for bloodstream infections</title>
+      <link>https://russlewisid.com/blog/eccmid/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://russlewisid.com/blog/eccmid/</guid>
+      <description>Zaghi I, Sambri V, Lewis RE. 32nd European Congress of Clinical Microbiology and Infectious Diseases, Lisbon, Portugal. Abstract 01824 Poster is available to download here
+Abstract Background: Time to positivity (TTP) and differential time-to-positivity (DTP) of central line vs. peripheral cultures are surrogate indicators for microbial inoculum and frequently investigated as prognostic or diagnostic markers in patients with bloodstream infections (BSIs). However, evidence concerning the prognostic or diagnostic utility of TTP and DTP is conflicting.</description>
+    </item>
+    
+    <item>
+      <title>Beyond antifungal MICs: Fungicidal activity, biofilms and tissue distribution</title>
+      <link>https://russlewisid.com/talk/campfire/</link>
+      <pubDate>Tue, 12 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://russlewisid.com/talk/campfire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Developing time to blood culture positivity (Tpos) as a pharmacodynamic biomarker</title>
       <link>https://russlewisid.com/project/giraffes/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://russlewisid.com/project/giraffes/</guid>
       <description>PI: Irene Zaghi, M.D. Recipient of the 2022 ESCMID Young Investigator Award ESCMID research award link The effectiveness of antibiotic therapy in critically-ill patients with sepsis is often compromised by highly variable pharmacokinetics that can lead to subtherapeutic exposures and treatment failures, especially in the management of infections caused by multidrug resistant Gram-negative bacteria. Pharmacometric model-informed dosing and therapeutic drug monitoring (TDM) have been advanced as strategies for individualising antibiotic dosing in critically-ill patients, but the availability of these tools and expertise for implementation (especially for newer antibiotics) is often not available.</description>
+    </item>
+    
+    <item>
+      <title>Managing drug interactions with targeted chemotherapy</title>
+      <link>https://russlewisid.com/blog/social/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://russlewisid.com/blog/social/</guid>
+      <description>Brüggemann RJ, Verheggen R, Boerrigter E,Stanzani M, Verweij P, Blijlevens NMA, Lewis, RE. Management of drug-drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs. Lancet Haematol 2022;9:e58–e72. Available at: http://dx.doi.org/10.1016/S2352-3026(21)00232-5.
+Abstract Over the past 10 years, the number of targeted therapies for haematological malignancies has substantially increased, and many new drugs have entered the market. Many of these therapies have shown improved disease-free survival and reduced toxicity compared with existing treatments, especially in older patients.</description>
     </item>
     
   </channel>
