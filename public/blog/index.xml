@@ -1,96 +1,50 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>A Blog That Works on Russell E. Lewis</title>
+    <title>Recent publications on Russell E. Lewis</title>
     <link>https://russlewisid.com/blog/</link>
-    <description>Recent content in A Blog That Works on Russell E. Lewis</description>
+    <description>Recent content in Recent publications on Russell E. Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Jan 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://russlewisid.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://russlewisid.com/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Set up your social</title>
+      <title>Is timing everything? A Bayesian meta-analysis of the prognostic and diagnostic utility of bloodculture time-to-positivity (TTP) and differential time-to positivity (DTP) for bloodstream infections</title>
+      <link>https://russlewisid.com/blog/eccmid/</link>
+      <pubDate>Thu, 14 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://russlewisid.com/blog/eccmid/</guid>
+      <description>Zaghi I, Sambri V, Lewis RE. 32nd European Congress of Clinical Microbiology and Infectious Diseases, Lisbon, Portugal. Abstract 01824 Poster is available to download here
+Abstract Background: Time to positivity (TTP) and differential time-to-positivity (DTP) of central line vs. peripheral cultures are surrogate indicators for microbial inoculum and frequently investigated as prognostic or diagnostic markers in patients with bloodstream infections (BSIs). However, evidence concerning the prognostic or diagnostic utility of TTP and DTP is conflicting.</description>
+    </item>
+    
+    <item>
+      <title>Managing drug interactions with targeted chemotherapy</title>
       <link>https://russlewisid.com/blog/social/</link>
-      <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
       <guid>https://russlewisid.com/blog/social/</guid>
-      <description>There are five places where you can choose to show social icons. Here is the tl;dr:
- site header (set in config.toml), site footer (set in config.toml),  homepage (set in content/_index.md),  about page in the sidebar (set in content/about/sidebar/index.md), and  contact page (set in content/form/contact.md).  Read on to learn how to set up your social icons, and how to show/hide them.
-Configure social     Wherever you end up wanting to show your social icons, you&amp;rsquo;ll need to start by setting up the links in your site config.</description>
+      <description>Brüggemann RJ, Verheggen R, Boerrigter E,Stanzani M, Verweij P, Blijlevens NMA, Lewis, RE. Management of drug-drug interactions of targeted therapies for haematological malignancies and triazole antifungal drugs. Lancet Haematol 2022;9:e58–e72. Available at: http://dx.doi.org/10.1016/S2352-3026(21)00232-5.
+Abstract Over the past 10 years, the number of targeted therapies for haematological malignancies has substantially increased, and many new drugs have entered the market. Many of these therapies have shown improved disease-free survival and reduced toxicity compared with existing treatments, especially in older patients.</description>
     </item>
     
     <item>
-      <title>Style your site colors</title>
-      <link>https://russlewisid.com/blog/color-themes/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://russlewisid.com/blog/color-themes/</guid>
-      <description>You can totally customize your site&amp;rsquo;s theme colors within minutes of creating a new site. Read on to find out how, and decide which of the three options meets your needs.
-Use a color theme     Hugo Apéro includes 8 built-in color themes that work &amp;ldquo;out of the box.&amp;rdquo; This means you can use a color theme to quickly customize the look of your site without needing to write any CSS.</description>
-    </item>
-    
-    <item>
-      <title>Style your site typography</title>
+      <title>Early low-dose CT plus pulmonary angiography to improve the diagnosis of aspergillosis</title>
       <link>https://russlewisid.com/blog/fonts/</link>
-      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 27 Dec 2021 00:00:00 +0000</pubDate>
       
       <guid>https://russlewisid.com/blog/fonts/</guid>
-      <description>As with color themes, you can completely customize your site&amp;rsquo;s fonts within minutes of creating a new site. How you do it depends on how much control and customization you need.
-Embedded fonts     Hugo Apéro includes 6 embedded fonts that work &amp;ldquo;out of the box.&amp;rdquo; We selected 3 serif and 3 sans-serif options that we thought looked good with this theme, in our humble opinions. All embedded fonts include real italics so you may emphasize to your heart&amp;rsquo;s content ❤️!</description>
+      <description>Stanzani M, Sassi C, Lewis R, . Early low-dose computed tomography with pulmonary angiography to improve the early diagnosis of invasive mould disease in patients with haematological malignancies: A pilot study. J Infect 2021; 83:371–380. Available at: http://dx.doi.org/10.1016/j.jinf.2021.06.019.
+Abstract High-resolution computed tomography (CT) is an essential diagnostic tool for invasive mould disease (IMD) in patients with haematological malignancies but is infrequently performed in the first 72 h of neutropenic fever until after chest X-ray (CXR).</description>
     </item>
     
     <item>
-      <title>An evergreen post</title>
+      <title>Chimeric antigen receptor T-cell therapy for the treatment of lymphoid malignancies-is there an excess risk for infection?</title>
       <link>https://russlewisid.com/blog/evergreen/</link>
-      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 20 May 2021 00:00:00 +0000</pubDate>
       
       <guid>https://russlewisid.com/blog/evergreen/</guid>
-      <description>Rendering mathematical equations     Examples from the mathjax demo. But they work with katex as well.
-Rmarkdown     In .Rmarkdown documents, you can use either
-$a \ne 0$ to get inline math: \(a \ne 0\). There is no conflict with using dollar symbols regularly, because knitr automatically escapes freestanding dollar symbols.
-And you can use
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$ to get a math paragraph:</description>
-    </item>
-    
-    <item>
-      <title>Using panelsets</title>
-      <link>https://russlewisid.com/blog/seedling/</link>
-      <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://russlewisid.com/blog/seedling/</guid>
-      <description>Courtesy of panelset.js by Garrick Aden-Buie, from his xaringanExtra package: https://pkg.garrickadenbuie.com/xaringanExtra/#/panelset
-For example, this panelset:
-Hello! 👋 hello
- Goodbye 💨 goodbye
-  Was created by combining this theme&amp;rsquo;s panelset and panel shortcodes:
-{{&amp;lt; panelset class=&amp;#34;greetings&amp;#34; &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Hello! :wave:&amp;#34; &amp;gt;}} hello {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; panel name=&amp;#34;Goodbye :dash:&amp;#34; &amp;gt;}} goodbye {{&amp;lt; /panel &amp;gt;}} {{&amp;lt; /panelset &amp;gt;}} You could also revert to HTML as well. For example, this panelset:</description>
-    </item>
-    
-    <item>
-      <title>An Rmarkdown post</title>
-      <link>https://russlewisid.com/blog/rmarkdown/</link>
-      <pubDate>Wed, 30 Dec 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://russlewisid.com/blog/rmarkdown/</guid>
-      <description> Air quality     with(airquality, boxplot(Temp ~ Month)) with(airquality, plot(Ozone ~ Temp)) mlev &amp;lt;- levels(with(airquality, as.factor(Month))) with(airquality, plot(Ozone ~ Temp, pch = as.numeric(mlev), col = mlev)) </description>
-    </item>
-    
-    <item>
-      <title>CSS Grid Scaffold</title>
-      <link>https://russlewisid.com/blog/css-grid-scaffold/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://russlewisid.com/blog/css-grid-scaffold/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Overview     Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
-    </item>
-    
-    <item>
-      <title>Built-in Contact Form</title>
-      <link>https://russlewisid.com/blog/built-in-contact-form/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://russlewisid.com/blog/built-in-contact-form/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <description>Gudiol C, Lewis RE, Strati P, Kontoyiannis DP. Chimeric antigen receptor T-cell therapy for the treatment of lymphoid malignancies: is there an excess risk for infection? Lancet Haematol 2021; 8:e216–e228. Available at: http://dx.doi.org/10.1016/S2352-3026(20)30376-8.
+Abstract Therapy with genetically engineered chimeric antigen receptor (CAR) T cells targeting the CD19 antigen is promising for a number of refractory or relapsed B-cell malignancies. Information on the infectious complications of this immunotherapeutic strategy is scarce and difficult to interpret, as many factors influence infection incidence and outcomes.</description>
     </item>
     
   </channel>

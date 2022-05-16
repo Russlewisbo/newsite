@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Current and future projects on Russell E. Lewis</title>
+    <title>Current projects on Russell E. Lewis</title>
     <link>https://russlewisid.com/project/</link>
-    <description>Recent content in Current and future projects on Russell E. Lewis</description>
+    <description>Recent content in Current projects on Russell E. Lewis</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 07 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://russlewisid.com/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>ACUTE</title>
+      <title>Developing time to blood culture positivity (Tpos) as a pharmacodynamic biomarker</title>
       <link>https://russlewisid.com/project/giraffes/</link>
       <pubDate>Thu, 07 Apr 2022 00:00:00 +0000</pubDate>
       
@@ -17,22 +17,21 @@
     </item>
     
     <item>
-      <title>Palmer Penguins</title>
-      <link>https://russlewisid.com/project/penguins/</link>
-      <pubDate>Tue, 02 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Prognostic Aspergillus Models with Leukemia Sequencing</title>
+      <link>https://russlewisid.com/project/bakeoff/</link>
+      <pubDate>Sat, 02 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://russlewisid.com/project/penguins/</guid>
-      <description>“Grid is the very first CSS module created specifically to solve the layout problems we&amp;rsquo;ve all been hacking our way around for as long as we&amp;rsquo;ve been making websites.”     — Chris House, A Complete Guide to CSS Grid Layout 1
- Since I began building websites in Y2K, I&amp;rsquo;ve lost count how many times the phrase &amp;ldquo;&amp;hellip;there&amp;rsquo;s got to be a better way to do this&amp;rdquo; has passed my lips.</description>
+      <guid>https://russlewisid.com/project/bakeoff/</guid>
+      <description>Polymorphisms in genes encoding fungal pattern recognition receptors (PRRs) of the innate immune system are associated with increased risk of invasive aspergillosis (IA), but incorporation genetic risk factors in clinical decision making remains limited. We propose to develop a combined clinical/genetic risk model suitable for accurately predicting an individual patient&amp;rsquo;s risk for developing IA within 60 days of admission for chemotherapy for acute myeloid leukemia/myelodysplastic syndromes (AML/MDS). We will develop a clinical risk model from a large data registry of 788 patients over 2,713 hospital admissions (2007-2020) for AML/MDS treatment that was associated with a 5.</description>
     </item>
     
     <item>
-      <title>Bakeoff</title>
-      <link>https://russlewisid.com/project/bakeoff/</link>
-      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Predicting CRE infection after liver transplantation</title>
+      <link>https://russlewisid.com/project/penguins/</link>
+      <pubDate>Wed, 02 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://russlewisid.com/project/bakeoff/</guid>
-      <description>Formspree makes it easy to receive submissions from HTML forms on your static website.      Functional Form     This theme has a form-to-email feature built in, thanks to the simple Formspree integration. All you need to activate the form is a valid recipient email address saved in the front matter of the form (/content/forms/contact.md). Of course, the example shown below (your@email.here) must not be used.</description>
+      <guid>https://russlewisid.com/project/penguins/</guid>
+      <description>Giannella M, Freire M, Rinaldi M, Abdala E, Rubin A, Mularoni A, Gruttadauria S, Grossi P, Shbaklo N, Tandoi F, Ferrarese A, Burra P, Fernandes R, Aranha Camargo LF, Asensio A, Alagna L, Bandera A, Simkins J, Abbo L, Halpern M, Santana Girao E, Valerio M, Muñoz P, Fernandez Yunquera A, Statlender L, Yahav D, Franceschini E, Graziano E, Morelli MC, Cescon M, Viale P, Lewis R, Bartoletti M, Pascale R, Campoli C, Coladonato S, Cristini F, Tumietto F, Siniscalchi A, Laici C, Ambretti S, Romagnoli R, De Rosa FG, Muscatello A, Mangioni D, Gori A, Antonelli B, Dondossola D, Rossi G, Invernizzi F, Peghin M, Cillo U, Mussini C, Benedetto FD, Terrabuio DRB, Bittante CD, Toniolo ADR, Balbi E, Garcia JHP, Morrás I, Ramos A, Cruz AF, Salcedo M.</description>
     </item>
     
   </channel>
