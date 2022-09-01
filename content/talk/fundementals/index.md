@@ -1,6 +1,6 @@
 ---
 title: "Principles and Complexity of Antifungal Therapy"
-excerpt: "This introductory lecture is a companion to *Oxford Textbook of Medical Mycology* Chapter 45: [Principles of Antifungal Therapy](https://academic.oup.com/book/41270/chapter-abstract/351217609?redirectedFrom=fulltext)."
+excerpt: "This introductory lecture is a companion to Oxford Textbook of Medical Mycology Chapter 45: [Principles of Antifungal Therapy](https://academic.oup.com/book/41270/chapter-abstract/351217609?redirectedFrom=fulltext)"
 date: 2022-08-15T14:15:59-06:00
 date_end: "2024-09-15T14:45:59-06:00"
 author: "Russell Lewis"
