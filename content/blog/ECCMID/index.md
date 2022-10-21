@@ -14,7 +14,7 @@ subtitle:  32nd European Congress of Clinical Microbiology & Infectious Diseases
 title: Is timing everything? A Bayesian meta-analysis of the prognostic and diagnostic utility of bloodculture time-to-positivity (TTP) and differential time-to positivity (DTP) for bloodstream infections
 ---
 
-Zaghi I, Sambri V, Lewis RE. 32nd European Congress of Clinical Microbiology and Infectious Diseases, Lisbon, Portugal. Abstract 01824 <br> <br> Poster is available to download [here](https://drive.google.com/file/d/1NXj6XbGpOcYdYKXlhzjLLJKzqsUoMqbV/view?usp=sharing)
+Zaghi I, Sambri V, Lewis RE. 32nd European Congress of Clinical Microbiology and Infectious Diseases, Lisbon, Portugal. Abstract 01824 <br> <br> Poster is available to download [here](ESCMID 2022 Poster_revised.pdf)
 
 **Abstract** <br> <br>
 
